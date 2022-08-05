@@ -1,0 +1,16 @@
+domain_set:
+  - api-glb-sea.smoot.apple.com
+  - books.itunes.apple.com
+  - cvws.icloud-content.com
+  - developer.apple.com
+  - hls.itunes.apple.com
+  - itunes.apple.com
+  - lookup-api.apple.com
+  - sandbox.itunes.apple.com
+  - testflight.apple.com
+domain_suffix_set:
+  - apple-dns.net
+  - apps.apple.com
+  - appsto.re
+  - blobstore.apple.com
+  - digicert.com
