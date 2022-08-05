@@ -1,0 +1,33 @@
+domain_suffix_set:
+  - aaplimg.com
+  - apple.co
+  - apple.com
+  - apple.com.cn
+  - apple-cloudkit.com
+  - apple-livephotoskit.com
+  - apple-mapkit.com
+  - applemusic.com
+  - appstore.com
+  - apzones.com
+  - cdn-apple.com
+  - icloud.com
+  - icloud.com.cn
+  - icloud-content.com
+  - me.com
+  - mzstatic.com
+domain_keyword_set:
+  - apple.com.akadns.net
+  - apple.com.edgekey.net
+  - apple-support.akadns.net
+  - icloud.com.akadns.net
+ip_cidr_set:
+  - 17.249.0.0/16
+  - 17.252.0.0/16
+  - 17.57.144.0/22
+  - 17.188.128.0/18
+  - 17.188.20.0/23
+ip_cidr6_set:
+  - 2620:149:a44::/48
+  - 2403:300:a42::/48
+  - 2403:300:a51::/48
+  - 2a01:b740:a42::/48
