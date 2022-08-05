@@ -1,31 +1,34 @@
+domain_set:
+  - apple.comscoreresearch.com
 domain_suffix_set:
   - aaplimg.com
+  - akadns.net
+  - apple-cloudkit.com
+  - apple-mapkit.com
   - apple.co
   - apple.com
   - apple.com.cn
-  - apple-cloudkit.com
-  - apple-livephotoskit.com
-  - apple-mapkit.com
-  - applemusic.com
+  - apple.news
   - appstore.com
-  - apzones.com
   - cdn-apple.com
+  - crashlytics.com
+  - icloud-content.com
   - icloud.com
   - icloud.com.cn
-  - icloud-content.com
+  - itunes.com
   - me.com
   - mzstatic.com
-domain_keyword_set:
-  - apple.com.akadns.net
-  - apple.com.edgekey.net
-  - apple-support.akadns.net
-  - icloud.com.akadns.net
 ip_cidr_set:
-  - 17.249.0.0/16
-  - 17.252.0.0/16
-  - 17.57.144.0/22
-  - 17.188.128.0/18
-  - 17.188.20.0/23
+  - 17.0.0.0/8
+  - 63.92.224.0/19
+  - 65.199.22.0/23
+  - 139.178.128.0/18
+  - 144.178.0.0/19
+  - 144.178.36.0/22
+  - 144.178.48.0/20
+  - 192.35.50.0/24
+  - 198.183.17.0/24
+  - 205.180.175.0/24
 ip_cidr6_set:
   - 2620:149:a44::/48
   - 2403:300:a42::/48
