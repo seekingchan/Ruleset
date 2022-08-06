@@ -1,0 +1,14 @@
+domain_suffix_set:
+  - googlevideo.com
+  - withyoutube.com
+  - youtu.be
+  - youtube.com
+  - youtubeeducation.com
+  - youtubegaming.com
+  - youtubekids.com
+  - youtube-nocookie.com
+  - yt.be
+  - ytimg.com
+domain_set:
+  - youtubei.googleapis.com
+  - yt3.ggpht.com
