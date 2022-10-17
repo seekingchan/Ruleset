@@ -582,7 +582,7 @@ domain_suffix_set:
   - zhongsou.com
   - zhuihd.com
 domain_keyword_set:
-  - '-cn'
+  - -cn
   - 360buy
   - alicdn
   - alimama
@@ -614,3 +614,14 @@ domain_set:
   - steampipe.steamcontent.tnkjmec.com
   - steampowered.com.8686c.com
   - steamstatic.com.8686c.com
+ip_cidr_set:
+  - 109.239.140.0/24
+  - 139.220.243.27/32
+  - 172.16.102.56/32
+  - 185.188.32.1/28
+  - 221.226.128.146/32
+ip_cidr6_set:
+  - 2a0b:b580::/48
+  - 2a0b:b581::/48
+  - 2a0b:b582::/48
+  - 2a0b:b583::/48
