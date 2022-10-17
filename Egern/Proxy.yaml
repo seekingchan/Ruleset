@@ -61,7 +61,6 @@ domain_suffix_set:
   - cloudfront.net
   - comodoca.com
   - daum.net
-  - demdex.net
   - deskconnect.com
   - disqus.com
   - disquscdn.com
@@ -258,6 +257,7 @@ domain_suffix_set:
   - steamcommunity.com
   - steamgames.com
   - steampowered.com
+  - steamserver.net
   - steamstatic.com
   - steamstat.us
   - tap.io
@@ -294,7 +294,7 @@ domain_suffix_set:
   - flzbcdn.xyz
   - ocnttv.com
 domain_keyword_set:
-  - 1e100
+  - '1e100'
   - abema
   - appledaily
   - avtb
