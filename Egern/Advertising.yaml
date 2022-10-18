@@ -9,6 +9,7 @@ domain_set:
   - r.51wnl-cq.com
   - tunion-api.m.taobao.com
   - ad.mobile.youku.com
+  - adx.op.cp18.ott.cibntv.net
   - iyes.youku.com
   - pl.cp31.ott.cibntv.net
   - optimus-ads.amap.com
@@ -159,6 +160,8 @@ domain_set:
   - mobilead.kuwo.cn
   - rich.kuwo.cn
   - tmead.y.qq.com
+  - splashimgbssdl.yun.kugou.com
+  - adsfilebssdlbig.tx.kugou.com
   - adm.10jqka.com.cn
   - stat.10jqka.com.cn
   - admonitor.thepaper.cn
@@ -248,6 +251,7 @@ domain_suffix_set:
   - ad.sohu.com
   - ads.sohu.com
   - aty.sohu.com
+  - pv.sohu.com
   - hoisin.coocaa.com
   - hoisin.coocaatv.com
   - e.qq.com
