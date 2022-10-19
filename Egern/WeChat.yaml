@@ -11,8 +11,6 @@ domain_suffix_set:
   - weixinbridge.com
   - weixinsxy.com
   - wxapp.tc.qq.com
-domain_keyword_set:
-  - 43.156.222.
 ip_cidr_set:
   - 101.32.104.4/32
   - 101.32.104.41/32
@@ -23,3 +21,4 @@ ip_cidr_set:
   - 101.32.133.53/32
   - 129.226.107.244/32
   - 129.226.3.47/32
+  - 43.156.222.0/24
