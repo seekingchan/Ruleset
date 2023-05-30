@@ -1,6 +1,6 @@
 domain_set:
   - download.jetbrains.com
-  - origin-a.akamaihd.net // Origin Download
+  - origin-a.akamaihd.net
   - outlook.office365.com
   - smtp-mail.outlook.com
   - smtp.office365.com
@@ -22,7 +22,7 @@ domain_suffix_set:
   - paypal.me
   - paypal-mktg.com
   - paypalobjects.com
-  - cm.steampowered.com // Steam Connect Manager Servers
+  - cm.steampowered.com
   - steamserver.net
   - netspeedtestmaster.com
   - acg.rip
